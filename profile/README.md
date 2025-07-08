@@ -2,7 +2,7 @@
 
 # 🌟 PW-Studios
 <p align="center">
-  <img src="assets/pw-studios-logo.png" alt="PW-Studios Logo" width="200"/>
+  <img src="LOGOPW.png" alt="PW-Studios Logo" width="200"/>
 </p>
 Welcome to **PW-Studios** — a creative dev space led by [Juan Rodriguez](https://github.com/ProgrammingW), focused on building **video games**, **web applications**, and **experimental software**. This is where code meets creativity.
 
